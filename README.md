@@ -1,4 +1,36 @@
 
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Admin6016&project=xhs_matrix_system&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
+
 # 小红书矩阵系统
 
 一个功能强大的多平台自动化运营系统,支持多账号管理、智能发文、素材管理等功能
